@@ -1,0 +1,9 @@
+#include<stdio.h>
+
+int main(){
+
+int num=5;
+printf("hello world");
+int a=a5;
+
+}
