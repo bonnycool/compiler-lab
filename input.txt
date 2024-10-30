@@ -1,9 +1,9 @@
 #include<stdio.h>
 
-int main(){
+int main () {
 
-int num=5;
-printf("hello world");
-int a=a5;
+int num = 5 ; 
+printf ( "hello-world" ) ;
+int a = a5 ;
 
 }
